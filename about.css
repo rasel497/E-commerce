@@ -1,0 +1,20 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+
+}
+
+body{
+    background: goldenrod;
+}
+
+h1{
+    padding-top: 20px;
+    color: antiquewhite;
+    margin-left: 5%;
+}
+p{
+    box-sizing: border-box;
+    margin-left: 5%;
+}
